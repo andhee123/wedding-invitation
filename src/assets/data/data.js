@@ -11,7 +11,7 @@ export const data = {
     P: {
       id: 2,
       name: "Idna",
-      child: "Putri ke lorem",
+      child: "Putri ke 2",
       father: "Hidup",
       mother: "Jokowi",
       image: "./src/assets/images/cewe.png",
